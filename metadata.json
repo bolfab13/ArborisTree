@@ -1,0 +1,6 @@
+{
+  "name": "Arboris - Généalogie & Arbre Familial",
+  "description": "Application moderne de généalogie pour créer, visualiser et explorer votre arbre généalogique avec import/export GEDCOM et JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
